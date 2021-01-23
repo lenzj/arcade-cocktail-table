@@ -4,7 +4,7 @@ Design of a custom standing 4 person arcade cocktail table.
 
 ![CAD image of cocktail table](drawings/png/arcade-cabinet-iso.png)
 
-![Picture of cocktail table](pictures/arcade-cab-right.jpg)
+![Picture of cocktail table](media/completed/arcade-cab-right.jpg)
 
 ## Motivation
 
@@ -42,14 +42,14 @@ love but I'm sure many would consider quite old and outdated.  With that said
 Solvespace has proven to be quite fast and usable on this laptop.
 
 The CAD files can be obtained by downloading a zip or tarball from the
-[releases](/lenzj/arcade-cocktail-table/releases) page, or alternately you can
-clone this repository using git.  The drawings folder contains the files which
-all end in the ".slvs" filename extension used by solvespace.  The main file
-for the fully assembled cabinet is titled "cabinet-assembly.slvs".  The other
-files are all the various sub assemblies and parts for the cabinet.  There are
-also some files that start with "cutlist" that I created when planning how to
-efficiently cut out the various panels and determine the number of sheets of
-plywood I would need etc.
+[releases](https://git.lenzplace.org/lenzj/arcade-cocktail-table/releases)
+page, or alternately you can clone this repository using git.  The drawings
+folder contains the files which all end in the ".slvs" filename extension used
+by solvespace.  The main file for the fully assembled cabinet is titled
+"cabinet-assembly.slvs".  The other files are all the various sub assemblies
+and parts for the cabinet.  There are also some files that start with "cutlist"
+that I created when planning how to efficiently cut out the various panels and
+determine the number of sheets of plywood I would need etc.
 
 Lastly there are also pdf and png sub folders in there which are derived
 directly from the solid models.  The pdf folder in particular has dimensioned
@@ -71,7 +71,7 @@ include the brand and model number of the part along with the supplier that I
 purchased it from as this was something I had a hard time finding in some of
 the other DIY guides.  An image of the BOM is shown below:
 
-![BOM](pictures/BOM.png)
+![BOM](media/BOM.png)
 
 The cost of this project was something that snuck up on me, as I purchased
 these components over time and only tallied up the total cost at the end.  The
@@ -104,10 +104,15 @@ You may be able to use some of the substitute tools below in a pinch:
 
 ## Assembly
 
-The assembly instructions are in progress and I plan to update and post those
-here soon.
+The links below cover the basics steps used to build / assemble this arcade
+cabinet using pictures and some commentary mixed in.
 
-## References and links to similar projects/products
+* [Assemble controllers](assemble-controllers.md)
+* [Assemble frame](assemble-frame.md)
+* [Integrate controllers, frame, and glass](assemble-system.md)
+* [Add base and final assemble](assemble-final.md)
+
+## References and links to similar projects / products
 
 Wealth of information on joystick/button layouts.
 * <http://www.slagcoin.com/joystick/layout.html>
